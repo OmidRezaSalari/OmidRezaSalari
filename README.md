@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Omidsalari1995@gmailcom**
 
-- ⚡ What I like to do: **I like so much reading, footsal and ...and coding of course**
+- ⚡ What I like to do: **I like so much reading, football and ...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
