@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm OmidReza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate PHP and Back-End  developer from Iran</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Individual skills**
 
 - 🌱 I’m currently learning **GoLang, Docker**
 
