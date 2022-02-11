@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OmidReza Salari.
-<h3 align="center">A passionate PHP, Laravel, and Back-End developer from Iran</h3>
+<h3 align="center">A passionate PHP, Laravel, and Back-End developer</h3>
 
 - 🔭 I’m currently working on my **Individual skills**
 
