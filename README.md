@@ -35,6 +35,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+    <a href="https://go.dev/" target="_blank"> 
+    <img src="https://www.linkpicture.com/view.php?img=LPic622b5fa0a5851135944287" alt="GO" width="40" height="40"/> 
+  </a>
 </p>
 
 ------
