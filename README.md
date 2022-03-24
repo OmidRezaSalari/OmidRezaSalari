@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Back-end projects**
 
-- 📫 How to reach me: **Omidsalari1995@gmail.com**
+- 📫 How to reach me: **omidsalari.dev@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, football and ...and coding of course**
 
