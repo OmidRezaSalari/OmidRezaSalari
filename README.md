@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Individual skills**
 
-- 🌱 I’m currently learning **GoLang, Docker**
+- 🌱 I’m currently learning **GoLang, Docker , System Design**
 
 - 👯 I’m looking to collaborate on **Back-end projects**
 
